@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShelf.API", "BookShelf.API\BookShelf.API.csproj", "{CA679C34-17D2-4428-9B38-725B83529770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShelf.Application", "BookShelf.Application\BookShelf.Application.csproj", "{B31147D3-0729-48F3-8BB1-EDAD30141D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShelf.Communication", "BookShelf.Communication\BookShelf.Communication.csproj", "{4F8B1CDE-D82E-4026-807C-E30F68226100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA679C34-17D2-4428-9B38-725B83529770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA679C34-17D2-4428-9B38-725B83529770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA679C34-17D2-4428-9B38-725B83529770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA679C34-17D2-4428-9B38-725B83529770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31147D3-0729-48F3-8BB1-EDAD30141D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31147D3-0729-48F3-8BB1-EDAD30141D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31147D3-0729-48F3-8BB1-EDAD30141D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31147D3-0729-48F3-8BB1-EDAD30141D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8B1CDE-D82E-4026-807C-E30F68226100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8B1CDE-D82E-4026-807C-E30F68226100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8B1CDE-D82E-4026-807C-E30F68226100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8B1CDE-D82E-4026-807C-E30F68226100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
